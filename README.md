@@ -1,4 +1,7 @@
 # signlanguageML
 
-
-hi my name is kartik
+Project Team :
+Kartik
+Satya
+Narendra
+Deepak
