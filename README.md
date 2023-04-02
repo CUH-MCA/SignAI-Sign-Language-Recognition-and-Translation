@@ -3,12 +3,12 @@
 Project Team :
 Kartik
 Satya
-Narendra
 Deepak
+Narendra
 
 # Learning Path
 
-# OpenCV
-# CNN
-# Tensorflow
-# NLPs
+ OpenCV
+ CNN
+ Tensorflow
+ NLPs
