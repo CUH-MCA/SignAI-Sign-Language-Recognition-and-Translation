@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel = "stylesheet" href = "{{ url_for('static', filename = 'css/style.css') }}">
+    <script type = 'text/javascript' href = "{{ url_for('static', filename = 'script/script.js') }}"></script>
+    <title>Home</title>
+</head>
+<body bgcolor="cyan">
+
+    <h1>Enter your Score</h1>
+    <form action = "/home" method="post">
+        <label for = 'score'>Enter your Score</label>
+        <input type="text" id = 'score' name = 'score'>
+        <input type="submit" value="submit">
+    </form>
+
+</body>
+</html>
