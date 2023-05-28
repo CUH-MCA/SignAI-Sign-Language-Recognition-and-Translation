@@ -26,7 +26,7 @@ Project Team :Kartik Kumar, Satya Sangram Pattnaik, Deepak, Narendra Tiwari
 
 • Operating system: Windows 10  
 • Coding Language: Python  
-• Platform : Jupiter Notebook, Pycharm IDE 
+• Platform : Jupiter Notebook, Pycharm IDE, VSCode
 
 ``` 
 conda env create -f environment.yml
