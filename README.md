@@ -1,4 +1,4 @@
-# signlanguageML
+# SIGN.AI
 
 Project Team :
 Kartik
