@@ -30,6 +30,38 @@ Sign.AI is a Sign Language Gesture Detection application built on top of MediaPi
 conda env create -f environment.yml
 conda activate project1
 ```
+## Structure:
+```bash    
+SignAI
+├── functions
+│   └── functions.py
+├── images
+│   ├── logo.png
+│   ├── signs.png
+│   ├── signstpb.png
+│   └── signstpw.png
+├── model
+│   ├── keypoint_classifier
+│   │   ├── keypoint.csv
+│   │   ├── keypoint_classifier.hdf5
+│   │   ├── keypoint_classifier.py
+│   │   ├── keypoint_classifier.tflite
+│   │   └── keypoint_classifier_label.csv
+│   └── __init__.py
+├── app.py
+├── environment.yml
+├── keypoint_classification.ipynb
+├── requirements.txt
+├── docs
+│   ├── gui.jpeg
+│   ├── logo.png
+│   ├── logo2.png
+│   ├── signs.png
+│   ├── signstpb.png
+│   └── signstpw.png
+├── LISCENSE
+└── README.md
+```
 ## GUI:
 
 <p align="center">
