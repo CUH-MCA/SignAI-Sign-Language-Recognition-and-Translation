@@ -38,5 +38,5 @@ conda activate project1
   <br /></p>
 
 # Contact
-If you have any questions, suggestions, or feedback, please feel free to contact me at kartik11721@gmail.com
+If you have any questions, suggestions, or feedback, please feel free to contact me at kartik11721@gmail.com <br />
 Project Team : Kartik Kumar, Satya Sangram Pattnaik, Deepak, Narendra Tiwari
