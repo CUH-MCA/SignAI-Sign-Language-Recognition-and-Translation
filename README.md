@@ -6,8 +6,6 @@
   <br /></p><hr>
 Sign.AI is a Sign Language Gesture Detection application built on top of MediaPipe Framework and uses ComputerVision to Detect Hand Signs from a users video capture device. SignAI is accurate and also has the capability to autocorrect wordsand phrase sentences using GingerIT. Sign.AI also provides Hindi Translation for predictions with the help of argostranslate.
 
-Project Team :Kartik Kumar, Satya Sangram Pattnaik, Deepak, Narendra Tiwari
-
 ### Features:
 * Real-time hand detection and tracking using MediaPipe.
 * Hand gesture recognition using a trained TensorFlow model.
@@ -41,3 +39,4 @@ conda activate project1
 
 # Contact
 If you have any questions, suggestions, or feedback, please feel free to contact me at kartik11721@gmail.com
+Project Team : Kartik Kumar, Satya Sangram Pattnaik, Deepak, Narendra Tiwari
