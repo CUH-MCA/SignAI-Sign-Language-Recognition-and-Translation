@@ -1,10 +1,10 @@
-# SIGN.AI:  Sign Language Gesture Detection <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
+# SIGN.AI:  Sign Language Recognition and Translation <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a>
 <br />
 <p align="center">
   <img src="docs/logo2.png" width="150">
   <br />
   <br /></p><hr>
-Sign.AI is a Sign Language Gesture Detection application built on top of MediaPipe Framework and uses ComputerVision to Detect Hand Signs from a users video capture device. SignAI is accurate and also has the capability to autocorrect wordsand phrase sentences using GingerIT. Sign.AI also provides Hindi Translation for predictions with the help of argostranslate.
+Sign.AI is a Sign Language Recognition and Translation application built on top of MediaPipe Framework and uses ComputerVision to Detect Hand Signs from a users video capture device. SignAI is accurate and also has the capability to autocorrect wordsand phrase sentences using GingerIT. Sign.AI also provides Hindi Translation for predictions with the help of argostranslate.
 
 ### Features:
 * Real-time hand detection and tracking using MediaPipe.
