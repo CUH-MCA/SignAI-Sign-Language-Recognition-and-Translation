@@ -29,6 +29,7 @@ Sign.AI is a Sign Language Recognition and Translation application built on top 
 ``` 
 conda env create -f environment.yml
 conda activate project1
+python app.py
 ```
 ## Structure:
 ```bash    
