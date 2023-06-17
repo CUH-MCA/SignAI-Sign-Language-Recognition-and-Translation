@@ -55,7 +55,7 @@ SignAI
 ├── keypoint_classification.ipynb
 ├── requirements.txt
 ├── docs
-│   ├── gui.jpeg
+│   ├── GUI.png
 │   ├── logo.png
 │   ├── logo2.png
 │   ├── signs.png
@@ -67,7 +67,7 @@ SignAI
 ## GUI:
 
 <p align="center">
-  <img src="docs/gui.jpeg" width="900">
+  <img src="docs/GUI.png" width="900">
   <br />
   <br /></p>
 
