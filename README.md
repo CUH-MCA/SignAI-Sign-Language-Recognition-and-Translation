@@ -4,7 +4,7 @@
   <img src="docs/logo2.png" width="150">
   <br />
   <br /></p><hr>
-Sign.AI is a Sign Language Recognition and Translation application built on top of MediaPipe Framework and it uses ComputerVision to Detect Hand Signs from a users video capture device. SignAI is accurate and also has the capability to autocorrect words and phrase sentences using GingerIT. Sign.AI also provides Hindi Translation for predictions with the help of argostranslate.
+Sign.AI is a Sign Language Recognition and Translation application built on top of MediaPipe Framework and it uses ComputerVision to Detect Hand Signs from a user's video capture device. SignAI is accurate and also has the capability to autocorrect words and phrase sentences using GingerIT. Sign.AI also provides Hindi Translation for predictions with the help of argostranslate.
 
 ### Features:
 * Real-time hand detection and tracking using MediaPipe.
@@ -24,7 +24,7 @@ Sign.AI is a Sign Language Recognition and Translation application built on top 
 
 • Operating system: Windows 10  
 • Coding Language: Python  
-• Platform : Jupiter Notebook, Pycharm IDE, VSCode
+• Platform: Jupiter Notebook, Pycharm IDE, VSCode
 
 ``` 
 conda env create -f environment.yml
@@ -49,6 +49,7 @@ SignAI
 │   │   ├── keypoint_classifier.tflite
 │   │   └── keypoint_classifier_label.csv
 │   └── __init__.py
+├── SignAI Project Report.pdf
 ├── app.py
 ├── environment.yml
 ├── keypoint_classification.ipynb
@@ -60,7 +61,7 @@ SignAI
 │   ├── signs.png
 │   ├── signstpb.png
 │   └── signstpw.png
-├── LISCENSE
+├── LICENSE
 └── README.md
 ```
 ## GUI:
